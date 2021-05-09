@@ -1,0 +1,9 @@
+habilitacion del programa:
+
+1.- importe la base de datos desde el archivo sql cargado en la carpeta backend a workbrench, este proporcionara un usuario
+llamado: victor con contraseña: 123 el cual le permitira ordenes y tecnicos para posteriormente ingresar ordenes desde estos
+2.- para usa de mejor manera el programa, retire el comentario en la linea 193, para habilitar el logo
+3.- si ya tiene instalado pip y la libreria play sound retire el resto de comentarios del documento, para agregar los sonidos
+al clickear botones
+
+!importante!:si presenta problemas a la hora de realizar el paso 2 o 3 reestablezca los comentarios pertinentes a cada punto
